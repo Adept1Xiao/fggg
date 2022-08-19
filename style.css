@@ -1,0 +1,52 @@
+ody {
+    font-family: sans-serif;
+}
+header {
+background-color: cadetblue;
+color: white;
+}
+header img {
+    padding: 10px;
+    margin: 10px;
+}
+h1 {
+    color: darkviolet;
+    text-align: center;
+}
+main nav {
+    padding-top: 30px ;
+
+}
+nav a {
+    margin: 25px;
+    font-size: 20px;
+    text-decoration-line: none;
+    color: rgb(255, 255, 255);
+    border: 2px solid CornflowerBlue ;
+    border-radius: 90px;
+    padding: 10px;
+    margin: 10px;
+    background-color: cadetblue;
+
+    
+}
+.q {
+    background-color: rgb(131, 168, 255);
+    color: white;
+     
+}
+.w {
+  background-color: rgb(141, 139, 255);  
+color: white;
+}
+.e {
+background-color: rgb(236, 153, 181);
+color: white;
+}
+.r {
+    background-color: rgb(146, 250, 151);
+    color: white;
+}
+
+
+
